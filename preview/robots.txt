@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: file:///D:\Git\test\Publii\phantasus_\preview/sitemap.xml
